@@ -22,7 +22,6 @@ Some of the tools/langs I have some experience with (drag your mouse over them).
 ![datadog](img/datadog.png "Datadog") &nbsp;
 ![docker](img/docker.png "Docker") &nbsp;
 ![elk](img/elk.png "Elastic Search") &nbsp;
-![github](img/github.png "GitHub") &nbsp;
 ![git](img/git.png "Git") &nbsp;
 ![lambda](img/lambda.png "AWS Lambda Functions") &nbsp;
 
