@@ -1,9 +1,7 @@
 # **Bolzon**, Alexandre 🖐
 
-[![abolzon.com](https://img.shields.io/badge/abolzon.com-black.svg?style=for-the-badge&logo=GitHub-Sponsors)](https://abolzon.com) &nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin "Linkedin")](https://linkedin.com/in/alexandrebolzon/) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-white.svg?style=for-the-badge&logo=Instagram)](https://instagram.com/blzn) &nbsp;
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC_IcAmtdHkUiRN62hahIhxg) &nbsp;
+[![abolzon.com](https://img.shields.io/badge/abolzon.com-black.svg?style=for-the-badge&logo=GitHub-Sponsors)](https://abolzon.com) &nbsp;
 
 
 Professional coder from Brazil 🇧🇷  
