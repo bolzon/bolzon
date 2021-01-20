@@ -9,8 +9,6 @@ Developing software systems for the past 15 years.
 Last 5 focused on cloud based solutions (AWS).  
 Currently at [**SIDI**](https://sidi.org.br) 🚀
 
----
-
 ## Skills
 
 Questioner, curious, dynamic, passionated.  
