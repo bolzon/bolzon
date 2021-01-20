@@ -12,7 +12,7 @@ Currently at [**SIDI**](https://sidi.org.br) 🚀
 ## Skills
 
 Questioner, curious, dynamic, passionated.  
-Some of the tools/langs I have some experience with (drag your mouse over them).
+Below are some of the tools/langs I have some experience with.
 
 ![python](img/python.png "Python") &nbsp;
 ![nodejs](img/nodejs.png "node.js") &nbsp;
@@ -41,8 +41,9 @@ Some of the tools/langs I have some experience with (drag your mouse over them).
 
 ## Miscelaneous
 
-- 🧒 dad of a 2-y-o lovely boy
-- 🎵 classical piano
-- 🚵‍♂️ biking / 🏃‍♂️ running
-- 📷 analog / digital photography
+- 🧒 dad of a 2yo lovely boy
+- 🎵 plays classical piano since 13yo
+- 🚵‍♂️ biking and 🏃‍♂️ running
+- 📷 analog and digital photography
 - 🥦 vegetarian (no meat since 2002 🐮🐷🐔🐟)
+- 🐻 говорит чуть-чуть по-русски
