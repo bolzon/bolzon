@@ -63,5 +63,5 @@ Below, some of the tools/langs I have some experience with.
 - 🎵 plays classical piano since 13yo
 - 🚵‍♂️ biking and 🏃‍♂️ running
 - 📷 analog and digital photography
-- 🥦 vegetarian (no meat since 2002 🐮🐷🐔🐟)
+- 🥦 vegetarian since 2002 🐮🐷🐔🐟
 - 🐻 говорит чуть-чуть по-русски
