@@ -18,7 +18,7 @@ Some of the tools/langs I have some experience with (drag your mouse over them).
 
 ![python](img/python.png "Python") &nbsp;
 ![nodejs](img/nodejs.png "node.js") &nbsp;
-![aws](img/aws.png "AWS") &nbsp;
+![aws](img/aws.png "Amazon Web Services (AWS)") &nbsp;
 ![centos](img/centos.png "CentOS") &nbsp;
 ![ubuntu](img/ubuntu.png "Ubuntu") &nbsp;
 ![datadog](img/datadog.png "Datadog") &nbsp;
@@ -40,16 +40,12 @@ Some of the tools/langs I have some experience with (drag your mouse over them).
 ![airflow](img/airflow.png "Apache Airflow") &nbsp;
 ![nginx](img/nginx.png "nginx") &nbsp;
 
-## GitHub stats
-
-These are my stats in GitHub.
-
 ![My stats](https://github-readme-stats.vercel.app/api?username=bolzon&count_private=true&include_all_commits=true&hide_title=true&hide=issues&show_icons=true)
 
 ## Miscelaneous
 
 - 🧒 dad of a 2-y-o lovely boy
-- 🥦 vegetarian (no meat since 2002 🐮🐷🐔🐟)
-- 🚵‍♂️ biking / 🏃‍♂️ running
 - 🎵 classical piano
-- 🎞 analog / digital photography 📷
+- 🚵‍♂️ biking / 🏃‍♂️ running
+- 📷 analog / digital photography
+- 🥦 vegetarian (no meat since 2002 🐮🐷🐔🐟)
