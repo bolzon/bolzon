@@ -4,10 +4,10 @@
 [![abolzon.com](https://img.shields.io/badge/abolzon.com-black.svg?style=for-the-badge&logo=GitHub-Sponsors)](https://abolzon.com) &nbsp;
 
 
-Professional coder from Brazil 🇧🇷  
+Professional coder from Brazil 🇧🇷 living in the Netherlands 🇳🇱   
 Developing software systems for the past 15 years.  
-Last 5 focused on cloud based solutions (AWS).  
-Currently at [**SIDI**](https://sidi.org.br) 🚀
+Last 6 focused on cloud based solutions (AWS).  
+Currently at [**NavInfo Europe**](https://navinfo.eu) 🚀
 
 ## Skills
 
@@ -59,7 +59,7 @@ Below, some of the tools/langs I have some experience with.
 
 ## Miscelaneous
 
-- 🧒 dad of a 2yo lovely boy
+- 🧒 dad of a 3yo lovely boy
 - 🎵 plays classical piano since 13yo
 - 🚵‍♂️ biking and 🏃‍♂️ running
 - 📷 analog and digital photography
