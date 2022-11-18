@@ -1,7 +1,4 @@
-# Alexandre Bolzon
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin "Linkedin")](https://linkedin.com/in/alexandrebolzon/) &nbsp;
-[![abolzon.com](https://img.shields.io/badge/abolzon.com-black.svg?style=for-the-badge&logo=GitHub-Sponsors)](https://abolzon.com) &nbsp;
 
 <!--
 ## Skills
@@ -49,11 +46,9 @@ Below, some of the tools/langs I have some experience with.
 ![csharp](img/virtualbox.png "VirtualBox") &nbsp;
 ![airflow](img/airflow.png "Apache Airflow") &nbsp;
 ![nginx](img/nginx.png "nginx") &nbsp;
--->
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=bolzon&count_private=true&include_all_commits=true&hide_title=true&hide=issues&show_icons=true)
 
-<!--
 ## Miscelaneous
 
 - 🧒 dad of a 3yo lovely boy
